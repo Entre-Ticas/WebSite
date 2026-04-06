@@ -11,3 +11,5 @@ Selección personalizada de ropa, calzado, carteras, perfumes, maquillaje y acce
 Envíos a Costa Rica seguro. Acceso a productos exclusivos y descuentos que no se consiguen fuera de EE.UU.
 
 💬 Nuestro lema: "Vos elegís el estilo, yo lo encuentro por vos."
+
+![Texto alternativo](Public/assets/img/EntreTicas.jpg)
