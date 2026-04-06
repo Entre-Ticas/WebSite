@@ -1,0 +1,19 @@
+.dato-destacado {
+    margin-top: 15px;
+    padding: 15px 30px;
+    background-color: var(--pink-accent);
+    color: white;
+    border-radius: 50px;
+    font-size: 1.4rem;
+    font-weight: bold;
+    box-shadow: 0 4px 15px rgba(225, 155, 157, 0.4);
+    border: 2px solid white;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    animation: popIn 0.5s ease;
+}
+@keyframes popIn { 
+    0% { transform: scale(0.9); opacity: 0; } 
+    100% { transform: scale(1); opacity: 1; } 
+}
